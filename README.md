@@ -4,6 +4,11 @@
 ---
 #### 1. Main Menu
 <p align="center">
-    <img src="demo.gif">
+    <img src="menu.png">
+</p>
+
+#### 4. About Nuclear-Power-Plant
+<p align="center">
+    <img src="about.png">
 </p>
 ---
