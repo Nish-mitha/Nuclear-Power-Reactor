@@ -4,21 +4,22 @@
 ---
 #### 1. Main Menu
 <p align="center">
-    <img src="menu.png">
+    <img src="menu.png" style="width:80%">
 </p>
 
 #### 2. Working
 <p align="center">
-    <img src="working.gif">
+    <img src="working_demo.gif" style="width:80%">
 </p>
 
 #### 3. Internal Reaction
 <p align="center">
-    <img src="reaction.gif">
+    <img src="reaction.gif" style="width:80%">
 </p>
 
 #### 4. About Nuclear-Power-Plant
 <p align="center">
-    <img src="about.png">
+    <img src="about.png" style="width:80%">
 </p>
+
 ---
